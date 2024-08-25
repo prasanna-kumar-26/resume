@@ -1,21 +1,27 @@
 {
   "files": {
-    "main.css": "/resume/static/css/main.a62f0133.css",
-    "main.js": "/resume/static/js/main.b82d97af.js",
+    "main.css": "/resume/static/css/main.63946c04.css",
+    "main.js": "/resume/static/js/main.6cc51c8a.js",
     "static/js/453.c3f574e4.chunk.js": "/resume/static/js/453.c3f574e4.chunk.js",
+    "static/media/skin.png": "/resume/static/media/skin.d6c06cae83ef94857b83.png",
     "static/media/ResumePrasanna.pdf": "/resume/static/media/ResumePrasanna.1b0b22f218602db5e98f.pdf",
     "static/media/prasanna.png": "/resume/static/media/prasanna.b39f04d424e5491788e0.png",
     "static/media/photo.jpeg": "/resume/static/media/photo.5f0a465efafdd05dd1ec.jpeg",
+    "static/media/stomach.jpg": "/resume/static/media/stomach.2ba200be7a9850188ca7.jpg",
     "static/media/food.jpeg": "/resume/static/media/food.8c90502272c3172bd9de.jpeg",
     "static/media/travel.jpeg": "/resume/static/media/travel.696bf73bba3fc1d8fad0.jpeg",
+    "static/media/tourist.jpg": "/resume/static/media/tourist.64d13f81f888fa9972b7.jpg",
     "static/media/prasannaProfile.jpeg": "/resume/static/media/prasannaProfile.17f8d8f93c78304c538a.jpeg",
+    "static/media/covid.png": "/resume/static/media/covid.76973e12b148964f7ddb.png",
+    "static/media/work1.jpg": "/resume/static/media/work1.321b4ae3bf404acdfdc6.jpg",
+    "static/media/process.png": "/resume/static/media/process.d0d799168fdf69d143bb.png",
     "index.html": "/resume/index.html",
-    "main.a62f0133.css.map": "/resume/static/css/main.a62f0133.css.map",
-    "main.b82d97af.js.map": "/resume/static/js/main.b82d97af.js.map",
+    "main.63946c04.css.map": "/resume/static/css/main.63946c04.css.map",
+    "main.6cc51c8a.js.map": "/resume/static/js/main.6cc51c8a.js.map",
     "453.c3f574e4.chunk.js.map": "/resume/static/js/453.c3f574e4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a62f0133.css",
-    "static/js/main.b82d97af.js"
+    "static/css/main.63946c04.css",
+    "static/js/main.6cc51c8a.js"
   ]
 }
